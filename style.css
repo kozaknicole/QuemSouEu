@@ -1,7 +1,13 @@
 body{ 
-background-color : #AB82FF; 
+background-color : #d6c3fd; 
 }
 
 h1{
-font-size: arial;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
