@@ -1,13 +1,24 @@
-body{ 
-background-color : #e6daff; 
+body {
+    background-color: #e6daff;
 }
 
-h1{
-font-family: 'Times New Roman', Times, serif;
-text-align: center;
-}
-
-h3{
+h1 {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+img {
+    width: 190px;
+    height: auto;
+    border-radius: 10px;
+    object-fit: cover;
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
 }
